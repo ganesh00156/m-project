@@ -26,6 +26,7 @@ const Rockets = () => {
 
   useEffect(() => {
     filterRockets();
+    // eslint-disable-next-line
   }, [rockets, currentPage]);
 
   const filterRockets = () => {
