@@ -15,6 +15,7 @@ const Navbar = () => {
             <div className="flex-shrink-0">
               <img
                 className="h-20 w-20"
+                style={{ height: "20px", width: "auto" }}
                 src="https://upload.wikimedia.org/wikipedia/commons/d/de/SpaceX-Logo.svg"
                 alt="Logo"
               />
