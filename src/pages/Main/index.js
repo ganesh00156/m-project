@@ -3,7 +3,7 @@ import Navbar from "../navbar";
 
 const TopBar = () => {
   return (
-    <div className="min-h-screen">
+    <div className="lg:min-h-screen sm:min-h-5">
       <Navbar />
       <div className="relative">
         <img

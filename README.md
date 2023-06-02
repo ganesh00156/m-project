@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+## The other url is used to make request Using php
+
+apiUrl = "http://localhost/react-api/api.php"
+
+## This is the api endpoint
+
+apiUrl = "https://api.spacexdata.com/v3/rockets"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

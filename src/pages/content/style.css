@@ -1,7 +1,7 @@
 .container {
   @media (max-width: 767px) {
     /* Styles specific to small screens */
-    margin-top: -300px;
+    /* margin-top: -300px; */
   }
 }
 
